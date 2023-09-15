@@ -1,12 +1,18 @@
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans+Meroitic:regular);
 
+.anchor{
+    background-color;
+}
 
 h3 {
     background-color: bisque
 }
 
+
 .facebook{
       background-color:#1d9bf0;
+      font-weight: bolder;
+      font-family: Arial, Helvetica;
       color: white;
       border: none;
       padding-top: 10px;
@@ -21,6 +27,8 @@ h3 {
 
 .youtube{
     background-color:#f32626;
+    font-weight: bolder;
+    font-family: Arial, Helvetica;
     color: white;
     border: none;
     padding-top: 10px;
@@ -35,6 +43,8 @@ h3 {
 
 .google{
     background-color:#71ca7a;
+    font-weight: bolder;
+    font-family: Arial, Helvetica;
     color: white;
     border: none;
     padding-top: 10px;
